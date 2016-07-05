@@ -1,6 +1,6 @@
 //
 //  main.m
-//  ivt260
+//  tanks
 //
 //  Created by TemaMarti on 05.07.16.
 //  Copyright TemaMarti 2016. All rights reserved.

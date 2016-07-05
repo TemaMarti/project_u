@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ivt260.xcscheme</key>
+		<key>tanks.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>B75055E71D2BB8120044B338</key>
+		<key>B7505EAB1D2BC7DA0044B338</key>
 		<dict>
 			<key>primary</key>
 			<true/>

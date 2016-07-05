@@ -1,19 +1,17 @@
 //
-//  HelloWorldLayer.h
-//  ivt260
+//  IntroLayer.h
+//  tanks
 //
 //  Created by TemaMarti on 05.07.16.
 //  Copyright TemaMarti 2016. All rights reserved.
 //
 
 
-#import <GameKit/GameKit.h>
-
 // When you import this file, you import all the cocos2d classes
 #import "cocos2d.h"
 
 // HelloWorldLayer
-@interface HelloWorldLayer : CCLayer <GKAchievementViewControllerDelegate, GKLeaderboardViewControllerDelegate>
+@interface IntroLayer : CCLayer
 {
 }
 

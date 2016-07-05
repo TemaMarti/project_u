@@ -1,6 +1,6 @@
 //
 //  IntroLayer.m
-//  ivt260
+//  tanks
 //
 //  Created by TemaMarti on 05.07.16.
 //  Copyright TemaMarti 2016. All rights reserved.
@@ -9,7 +9,7 @@
 
 // Import the interfaces
 #import "IntroLayer.h"
-#import "HelloWorldLayer.h"
+#import "JTGameScence.h"
 
 
 #pragma mark - IntroLayer
@@ -61,6 +61,6 @@
 -(void) onEnter
 {
 	[super onEnter];
-	[[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:1.0 scene:[HelloWorldLayer scene] ]];
+	[[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:1.0 scene:[JTGameScence scene] ]];
 }
 @end

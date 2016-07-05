@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B75055E71D2BB8120044B338"
-               BuildableName = "ivt260.app"
-               BlueprintName = "ivt260"
-               ReferencedContainer = "container:ivt260.xcodeproj">
+               BlueprintIdentifier = "B7505EAB1D2BC7DA0044B338"
+               BuildableName = "tanks.app"
+               BlueprintName = "tanks"
+               ReferencedContainer = "container:tanks.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B75055E71D2BB8120044B338"
-            BuildableName = "ivt260.app"
-            BlueprintName = "ivt260"
-            ReferencedContainer = "container:ivt260.xcodeproj">
+            BlueprintIdentifier = "B7505EAB1D2BC7DA0044B338"
+            BuildableName = "tanks.app"
+            BlueprintName = "tanks"
+            ReferencedContainer = "container:tanks.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B75055E71D2BB8120044B338"
-            BuildableName = "ivt260.app"
-            BlueprintName = "ivt260"
-            ReferencedContainer = "container:ivt260.xcodeproj">
+            BlueprintIdentifier = "B7505EAB1D2BC7DA0044B338"
+            BuildableName = "tanks.app"
+            BlueprintName = "tanks"
+            ReferencedContainer = "container:tanks.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B75055E71D2BB8120044B338"
-            BuildableName = "ivt260.app"
-            BlueprintName = "ivt260"
-            ReferencedContainer = "container:ivt260.xcodeproj">
+            BlueprintIdentifier = "B7505EAB1D2BC7DA0044B338"
+            BuildableName = "tanks.app"
+            BlueprintName = "tanks"
+            ReferencedContainer = "container:tanks.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
