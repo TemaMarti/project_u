@@ -9,8 +9,8 @@
 
 // Import the interfaces
 #import "IntroLayer.h"
-#import "JTGameScence.h"
-
+#import "JTGameScene.h"
+#import "SimpleAudioEngine.h"
 
 #pragma mark - IntroLayer
 
@@ -61,6 +61,11 @@
 -(void) onEnter
 {
 	[super onEnter];
-	[[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:1.0 scene:[JTGameScence scene] ]];
+    //[[SimpleAudioEngine sharedEngine] preloadBackgroundMusic:@"real_war.mp3"];
+    [[SimpleAudioEngine sharedEngine] preloadEffect:@"shot.wav"];
+    [[SimpleAudioEngine sharedEngine] preloadEffect:@"engine.wav"];
+    [[SimpleAudioEngine sharedEngine] preloadEffect:@"Explosion1.mp3"];
+    
+	[[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:1.0 scene:[JTGameScene scene] ]];
 }
 @end

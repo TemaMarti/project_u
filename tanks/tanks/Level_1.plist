@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Walls</key>
+	<array>
+		<dict>
+			<key>x</key>
+			<string>200</string>
+			<key>y</key>
+			<string>200</string>
+		</dict>
+		<dict>
+			<key>x</key>
+			<string>250</string>
+			<key>y</key>
+			<string>200</string>
+		</dict>
+		<dict>
+			<key>x</key>
+			<string>300</string>
+			<key>y</key>
+			<string>200</string>
+		</dict>
+	</array>
+</dict>
+</plist>
